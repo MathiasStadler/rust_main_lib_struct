@@ -51,7 +51,7 @@ fn main() {
 
     println!("{} square pixels.", rect1.two());
 
-    println!("rect1.get_with() => {:#?}", rect1.width());
+    println!("get value =>rect1.with() => {:#?}", rect1.width());
 
     println!("rect1.set_with() => {:#?}", rect1.set_width2(4));
 
